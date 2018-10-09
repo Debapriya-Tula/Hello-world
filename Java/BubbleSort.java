@@ -25,7 +25,7 @@ public class BubbleSort {
 
 	public static void bubbleSort(int[] arr){
 		//write your code here
-		//flag to get out of loop when array is sorted
+		//flag to get out of loop when array is sorted by checking if there is no swap in the inner loop
 		int flag;
     		for(int i=0;i<arr.length-1;i++)
 		{
