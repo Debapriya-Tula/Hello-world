@@ -1,0 +1,11 @@
+#Basic commands in MySQL to get started with a database
+
+Create and use a database
+
+show databases;
+-> show all the available databases
+create database TEST;
+-> creates a database named TEST
+use TEST;
+-> use the database TEST for creating tables, etc
+
